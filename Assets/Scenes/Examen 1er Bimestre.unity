@@ -223,6 +223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60c6a1bbf081978428ab6e87cc683175, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MontoAConvertir: 400
+  DivisaALaQueConvetir: R
 --- !u!4 &1504619718
 Transform:
   m_ObjectHideFlags: 0
